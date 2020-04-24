@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Case"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.127">
+  <properties />
+  
+  
+            <testcase name="verifyMouseHoverOnBorrowDropDownLink" time="6.187" classname="uk.co.barclays.testsuite.TestCase" />
+                <testcase name="verifyMouseHoverActionOnBankDropDownLink" time="0.940" classname="uk.co.barclays.testsuite.TestCase" />
+      
+</testsuite>
